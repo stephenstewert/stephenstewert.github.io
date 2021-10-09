@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "https://chancebauer.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "G-JVC616BEJX"
+
+# UI configs
+title: "Photography by Chance Bauer"
+subtitle: "See the world through my eyes!"
+author: "Chance Bauer"
+header:
+ title: "Photography"
+ subtitle: "by Chance Bauer"
+footer:
+ name: "Hey there, my name is Chance"
+ bio: "Reno, NV / all photos original work"
+ github: " <a href=\"https://www.buymeacoffee.com/chancebauer\">buymeabeer</a>;)"
+web_design: "KW"
+social_urls:
+  instagram: "https://www.instagram.com"
+  github: "https://www.github.com/chancebauer"
