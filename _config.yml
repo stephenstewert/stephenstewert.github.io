@@ -1,21 +1,21 @@
 # Base configs
-baseurl: "https://chancebauer.com"
+baseurl: "https://stephenstewert.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "G-JVC616BEJX"
 
 # UI configs
-title: "Photography by Chance Bauer"
-subtitle: "See the world through my eyes!"
-author: "Chance Bauer"
+title: "Photography by Stephen Stewert"
+subtitle: "Welcome"
+author: "Stephen Stewert"
 header:
  title: "Photography"
- subtitle: "by Chance Bauer"
+ subtitle: "by Stephen Stewert"
 footer:
- name: "Hey there, my name is Chance"
- bio: "Reno, NV / all photos original work"
- github: " <a href=\"https://www.buymeacoffee.com/chancebauer\">buymeabeer</a>;)"
+ name: "Hey there, my name is Steve"
+ bio: "Biography goes here"
+ github: " <a href=\"https://www.buymeacoffee.com/kylewhirl\">buymeacoffee</a>;)"
 web_design: "KW"
 social_urls:
-  instagram: "https://www.instagram.com"
-  github: "https://www.github.com/chancebauer"
+  instagram: "https://www.instagram.com/stephenstewert"
+  github: "https://www.github.com/stephenstewert"
