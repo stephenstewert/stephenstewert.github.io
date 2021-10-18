@@ -1,3 +1,3 @@
-# Chance Bauer Photos
-This repo host my website 
-https://chancebauer.com
+# Stephen Stewert
+Idk what im doing
+https://stephenstewert.github.io
